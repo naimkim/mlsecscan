@@ -28,6 +28,25 @@ ML 전문성: Adversarial ML, model security
 자동화: CLI tools, CI/CD integration
 컴플라이언스: NIST AI RMF alignment
 
+## 📊 Dashboard Preview
+
+![MLSecScan Dashboard](docs/images/mlsecscan-dashboard-full.png)
+
+### Key Features
+
+**Security Metrics**
+- Model accuracy monitoring
+- Risk assessment tracking
+- Real-time vehicle status
+
+**Interactive Visualizations**
+- Feature importance analysis
+- Battery health impact
+- Network quality correlation
+
+### Live Demo
+[View Figma Prototype](your-figma-share-link-here)
+
 **Machine Learning Model Security Scanner**
 
 A comprehensive security scanning tool for ML models and pipelines that helps identify vulnerabilities, malicious code, and security risks in machine learning artifacts.
@@ -63,7 +82,7 @@ A comprehensive security scanning tool for ML models and pipelines that helps id
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/mlsecscan.git
+git clone https://github.com/naimkim/mlsecscan.git
 cd mlsecscan
 
 # Install dependencies
