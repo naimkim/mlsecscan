@@ -1,0 +1,75 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+venv/
+ENV/
+env/
+.venv
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+
+# ML Models (for testing only - don't commit large models)
+*.pkl
+*.h5
+*.onnx
+*.pt
+*.pth
+*.pb
+*.joblib
+
+# Logs and databases
+*.log
+*.sqlite
+*.db
+
+# Security scan results
+scan_results/
+reports/
+*.json.report
+*.html.report
+
+# Environment variables
+.env
+.env.local
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+*.ipynb
+
+# Data files (for testing)
+data/
+datasets/
+*.csv
+*.parquet
