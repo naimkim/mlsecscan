@@ -1,4 +1,32 @@
 # MLSecScan 🔒🤖
+MLSecScan - ML 모델 보안 스캐너 프로젝트를 성공적으로 만들었습니다!
+📦 완성된 내용
+핵심 기능:
+
+✅ ML 모델 보안 스캐닝 (Pickle, H5, ONNX, PyTorch)
+✅ Dependency 취약점 검사
+✅ FGSM 기반 Adversarial 공격 테스트
+✅ CLI 및 Python API
+✅ 단위 테스트 및 예제
+
+첫 주 목표
+
+PGD 공격 구현
+테스트 커버리지 80%
+첫 블로그 포스트 작성
+
+
+포트폴리오 강화
+
+Hugging Face 모델 스캔 케이스 스터디
+CI/CD 파이프라인 통합
+Docker 컨테이너화
+
+실전 보안 기술: Threat modeling, vulnerability scanning
+ML 전문성: Adversarial ML, model security
+소프트웨어 공학: Clean code, testing, documentation
+자동화: CLI tools, CI/CD integration
+컴플라이언스: NIST AI RMF alignment
 
 **Machine Learning Model Security Scanner**
 
